@@ -1,0 +1,102 @@
+[
+  {
+    "NombreMoneda": "Dólar",
+    "CodigoMoneda": "USD",
+    "NombreMonedaConvertir": "Nicaraguan Córdoba",
+    "CodigoMonedaConvertir": "NIO",
+    "Monto": 98.0,
+    "MontoConvertido": 3620.9922,
+    "TipoCambio": 36.9489,
+    "FechaRegistro": "Jun 17, 2024, 4:34:30 PM"
+  },
+  {
+    "NombreMoneda": "Dólar",
+    "CodigoMoneda": "USD",
+    "NombreMonedaConvertir": "Nicaraguan Córdoba",
+    "CodigoMonedaConvertir": "NIO",
+    "Monto": 100.0,
+    "MontoConvertido": 3694.89,
+    "TipoCambio": 36.9489,
+    "FechaRegistro": "Jun 17, 2024, 4:37:30 PM"
+  },
+  {
+    "NombreMoneda": "Dólar",
+    "CodigoMoneda": "USD",
+    "NombreMonedaConvertir": "Nicaraguan Córdoba",
+    "CodigoMonedaConvertir": "NIO",
+    "Monto": 400.0,
+    "MontoConvertido": 14779.56,
+    "TipoCambio": 36.9489,
+    "FechaRegistro": "Jun 17, 2024, 4:37:33 PM"
+  },
+  {
+    "NombreMoneda": "Nicaraguan Córdoba",
+    "CodigoMoneda": "NIO",
+    "NombreMonedaConvertir": "United States Dollar",
+    "CodigoMonedaConvertir": "USD",
+    "Monto": 500.0,
+    "MontoConvertido": 13.61,
+    "TipoCambio": 0.02722,
+    "FechaRegistro": "Jun 17, 2024, 8:36:54 PM"
+  },
+  {
+    "NombreMoneda": "United States Dollar",
+    "CodigoMoneda": "USD",
+    "NombreMonedaConvertir": "Nicaraguan Córdoba",
+    "CodigoMonedaConvertir": "NIO",
+    "Monto": 700.0,
+    "MontoConvertido": 25713.66,
+    "TipoCambio": 36.7338,
+    "FechaRegistro": "Jun 17, 2024, 8:37:29 PM"
+  },
+  {
+    "NombreMoneda": "United States Dollar",
+    "CodigoMoneda": "USD",
+    "NombreMonedaConvertir": "Nicaraguan Córdoba",
+    "CodigoMonedaConvertir": "NIO",
+    "Monto": 890.0,
+    "MontoConvertido": 32693.082,
+    "TipoCambio": 36.7338,
+    "FechaRegistro": "Jun 17, 2024, 10:08:27 PM"
+  },
+  {
+    "NombreMoneda": "United States Dollar",
+    "CodigoMoneda": "USD",
+    "NombreMonedaConvertir": "Nicaraguan Córdoba",
+    "CodigoMonedaConvertir": "NIO",
+    "Monto": 490.0,
+    "MontoConvertido": 17999.562,
+    "TipoCambio": 36.7338,
+    "FechaRegistro": "Jun 17, 2024, 10:10:37 PM"
+  },
+  {
+    "NombreMoneda": "Nicaraguan Córdoba",
+    "CodigoMoneda": "NIO",
+    "NombreMonedaConvertir": "United States Dollar",
+    "CodigoMonedaConvertir": "USD",
+    "Monto": 899.0,
+    "MontoConvertido": 24.47078,
+    "TipoCambio": 0.02722,
+    "FechaRegistro": "Jun 17, 2024, 10:10:59 PM"
+  },
+  {
+    "NombreMoneda": "United States Dollar",
+    "CodigoMoneda": "USD",
+    "NombreMonedaConvertir": "Nicaraguan Córdoba",
+    "CodigoMonedaConvertir": "NIO",
+    "Monto": 999.9,
+    "MontoConvertido": 36730.12662,
+    "TipoCambio": 36.7338,
+    "FechaRegistro": "Jun 17, 2024, 10:15:02 PM"
+  },
+  {
+    "NombreMoneda": "Nicaraguan Córdoba",
+    "CodigoMoneda": "NIO",
+    "NombreMonedaConvertir": "United States Dollar",
+    "CodigoMonedaConvertir": "USD",
+    "Monto": 999.8,
+    "MontoConvertido": 27.214556,
+    "TipoCambio": 0.02722,
+    "FechaRegistro": "Jun 17, 2024, 10:15:25 PM"
+  }
+]

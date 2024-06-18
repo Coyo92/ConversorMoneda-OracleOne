@@ -1,0 +1,54 @@
+[
+  {
+    "NombreMoneda": "United States Dollar",
+    "CodigoMoneda": "USD"
+  },
+  {
+    "NombreMoneda": "Nicaraguan Córdoba",
+    "CodigoMoneda": "NIO"
+  },
+  {
+    "NombreMoneda": "Guatemalan Quetzal",
+    "CodigoMoneda": "GTQ"
+  },
+  {
+    "NombreMoneda": "Euro",
+    "CodigoMoneda": "EUR"
+  },
+  {
+    "NombreMoneda": "Honduran Lempira",
+    "CodigoMoneda": "HNL"
+  },
+  {
+    "NombreMoneda": "Costa Rican Colon",
+    "CodigoMoneda": "CRC"
+  },
+  {
+    "NombreMoneda": "Japanese Yen",
+    "CodigoMoneda": "JPY"
+  },
+  {
+    "NombreMoneda": "South Korean Won",
+    "CodigoMoneda": "KRW"
+  },
+  {
+    "NombreMoneda": "Colombian Peso",
+    "CodigoMoneda": "COP"
+  },
+  {
+    "NombreMoneda": "Panamanian Balboa",
+    "CodigoMoneda": "PAB"
+  },
+  {
+    "NombreMoneda": "Peruvian Sol",
+    "CodigoMoneda": "PEN"
+  },
+  {
+    "NombreMoneda": "Qatari Riyal",
+    "CodigoMoneda": "QAR"
+  },
+  {
+    "NombreMoneda": "Russian Ruble",
+    "CodigoMoneda": "RUB"
+  }
+]
